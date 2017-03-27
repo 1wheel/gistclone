@@ -1,0 +1,33 @@
+{
+  "name": "gistclone",
+  "version": "0.0.1",
+  "description": "clones a gist or bl.ock.org url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1wheel/gist-clone.git"
+  },
+  "keywords": [
+    "gist",
+    "bl.ocks"
+  ],
+  "author": {
+    "name": "Adam Pearce",
+    "url": "http://roadtolarissa.com/"
+  },
+  "bin": {
+    "gist-clone": "./index.js"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1wheel/gist-clone/issues"
+  },
+  "homepage": "https://github.com/1wheel/gist-clone#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request": "^2.81.0"
+  }
+}
