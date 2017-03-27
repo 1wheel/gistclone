@@ -14,4 +14,4 @@ Then, copy the url of bl.ock.org and run:
 
 This looks up the description of the gist and clones the gist a folder with that name:  
 
-    git clone git@gist.github.com:76f1f3330b09f5efa0b36fb2b9782e4f.git ${description}`
+    git clone git@gist.github.com:76f1f3330b09f5efa0b36fb2b9782e4f.git ${description}
