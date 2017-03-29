@@ -1,6 +1,6 @@
 {
   "name": "gistclone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "clones a gist or bl.ock.org url",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1wheel/gist-clone.git"
+    "url": "git+https://github.com/1wheel/gistclone.git"
   },
   "keywords": [
     "gist",
@@ -19,13 +19,13 @@
     "url": "http://roadtolarissa.com/"
   },
   "bin": {
-    "gist-clone": "./index.js"
+    "gistclone": "./index.js"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/1wheel/gist-clone/issues"
+    "url": "https://github.com/1wheel/gistclone/issues"
   },
-  "homepage": "https://github.com/1wheel/gist-clone#readme",
+  "homepage": "https://github.com/1wheel/gistclone#readme",
   "dependencies": {
     "minimist": "^1.2.0",
     "request": "^2.81.0"
