@@ -10,7 +10,7 @@ Install:
 
 Then, copy the url of a [bl.ocks.org](http://bl.ocks.org/)  and run: 
 
-    gist-snap https://bl.ocks.org/1wheel/76f1f3330b09f5efa0b36fb2b9782e4f
+    gistsnap https://bl.ocks.org/1wheel/76f1f3330b09f5efa0b36fb2b9782e4f
 
 This looks up the description of the gist and clones the gist a folder with that name:  
 
