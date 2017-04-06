@@ -1,6 +1,6 @@
 {
   "name": "gistclone",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "clones a gist or bl.ock.org url",
   "main": "index.js",
   "scripts": {

@@ -16,6 +16,9 @@ This looks up the description of the gist and clones the gist a folder with that
 
     git clone git@gist.github.com:76f1f3330b09f5efa0b36fb2b9782e4f.git ${description}
 
+Options: 
+
+    --https <https> - clone over https instead of ssh
 
 # More scripts
 
