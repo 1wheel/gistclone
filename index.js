@@ -6,7 +6,7 @@ var child = require("child_process"),
 
 var argv = require("minimist")(process.argv.slice(2), { boolean: true });
 
-var url = argv._[0];
+var url = argv._[0].replace('/raw', '');
 var slug = url.split("/")[url.split("/").length - 1];
 
 request(
